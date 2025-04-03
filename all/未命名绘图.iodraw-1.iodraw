@@ -389,7 +389,7 @@
           <mxGeometry x="290" y="34.2" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IrWZFQTTPmhAEq5joKL0-119" value="单次测试：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="-360" width="70" height="30" as="geometry" />
+          <mxGeometry x="-520" y="-290" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IrWZFQTTPmhAEq5joKL0-120" value="" style="endArrow=none;html=1;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -497,7 +497,7 @@
           <mxGeometry x="-311" y="125" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IrWZFQTTPmhAEq5joKL0-145" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-610" y="-270" width="255" height="115" as="geometry" />
+          <mxGeometry x="-466" y="-260" width="255" height="115" as="geometry" />
         </mxCell>
         <mxCell id="IrWZFQTTPmhAEq5joKL0-94" value="" style="endArrow=none;html=1;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="IrWZFQTTPmhAEq5joKL0-145">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
