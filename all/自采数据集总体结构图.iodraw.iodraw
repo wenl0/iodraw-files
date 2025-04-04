@@ -13,10 +13,10 @@
         <mxCell id="VPB8rVkStq8VF4M5i-6z-13" value="受试者1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPB8rVkStq8VF4M5i-6z-14" value="受试者2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-14" value="受试者2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="385" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPB8rVkStq8VF4M5i-6z-15" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;...&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-15" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;...&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="430" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPB8rVkStq8VF4M5i-6z-16" value="受试者15" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
