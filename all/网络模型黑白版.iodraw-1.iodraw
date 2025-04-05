@@ -2824,7 +2824,7 @@
         <mxCell id="BdIQbLxC7sNIYkfmaqf6-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;labelBackgroundColor=none;fontColor=default;" parent="BdIQbLxC7sNIYkfmaqf6-54" source="BdIQbLxC7sNIYkfmaqf6-62" target="BdIQbLxC7sNIYkfmaqf6-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BdIQbLxC7sNIYkfmaqf6-62" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Multi-Head&lt;br&gt;Attention Block&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;rotation=-90;labelBackgroundColor=none;" parent="BdIQbLxC7sNIYkfmaqf6-54" vertex="1">
+        <mxCell id="BdIQbLxC7sNIYkfmaqf6-62" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 11px&quot;&gt;Multi-Head&lt;br&gt;Attention Block&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;rotation=-90;labelBackgroundColor=none;" parent="BdIQbLxC7sNIYkfmaqf6-54" vertex="1">
           <mxGeometry x="76" y="50" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BdIQbLxC7sNIYkfmaqf6-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;labelBackgroundColor=none;fontColor=default;" parent="BdIQbLxC7sNIYkfmaqf6-54" source="BdIQbLxC7sNIYkfmaqf6-64" target="BdIQbLxC7sNIYkfmaqf6-66" edge="1">
