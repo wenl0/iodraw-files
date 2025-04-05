@@ -3803,8 +3803,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KRvJMitZO_ERHAP35MQF-522" value="Efficient Channel Attention(ECA)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="254.14999999999998" y="983.01" width="210" height="30" as="geometry" />
+        <mxCell id="KRvJMitZO_ERHAP35MQF-522" value="&lt;b&gt;Efficient Channel Attention(ECA)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="244.14999999999998" y="983.01" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ab_it1oL0Pctacpj2F-D-82" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;dashed=1;fillColor=#dae8fc;opacity=60;strokeColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1190" y="-657.5" width="390" height="190" as="geometry" />
