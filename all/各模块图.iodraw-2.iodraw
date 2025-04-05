@@ -3966,6 +3966,9 @@
         <mxCell id="ab_it1oL0Pctacpj2F-D-168" value="Conv 1D" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;rotation=-90;direction=west;container=0;" vertex="1" parent="ab_it1oL0Pctacpj2F-D-150">
           <mxGeometry x="15.839999999999918" y="131.745" width="53.5" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="ab_it1oL0Pctacpj2F-D-170" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;strokeColor=#36393d;fillColor=#EFF3FC;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="-1093" y="-592.5" width="240" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
