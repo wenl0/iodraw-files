@@ -3590,11 +3590,11 @@
         <mxCell id="KRvJMitZO_ERHAP35MQF-456" value="&lt;font style=&quot;font-size: 9px&quot;&gt;H&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="175.01999999999998" y="1081.51" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KRvJMitZO_ERHAP35MQF-457" value="&lt;font style=&quot;font-size: 9px&quot;&gt;W&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=45;" parent="1" vertex="1">
-          <mxGeometry x="180.01999999999998" y="1131.51" width="20" height="20" as="geometry" />
+        <mxCell id="KRvJMitZO_ERHAP35MQF-457" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;W&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=45;" parent="1" vertex="1">
+          <mxGeometry x="175.01999999999998" y="1126.51" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KRvJMitZO_ERHAP35MQF-458" value="&lt;font style=&quot;font-size: 9px&quot;&gt;C&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="205.01999999999998" y="1141.51" width="20" height="20" as="geometry" />
+        <mxCell id="KRvJMitZO_ERHAP35MQF-458" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;C&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="200.01999999999998" y="1136.51" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KRvJMitZO_ERHAP35MQF-459" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="296.77" y="1069.01" width="10" height="84.5" as="geometry" />
