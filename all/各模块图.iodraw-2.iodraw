@@ -3900,6 +3900,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ab_it1oL0Pctacpj2F-D-104" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;#n windows&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-1172" y="-556.5" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="ab_it1oL0Pctacpj2F-D-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;startArrow=block;startFill=1;endArrow=none;endFill=0;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1063" y="-537.5" as="targetPoint" />
@@ -3918,9 +3921,6 @@
               <mxPoint x="-1063" y="-587.5" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ab_it1oL0Pctacpj2F-D-104" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;#n windows&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-1172" y="-556.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ab_it1oL0Pctacpj2F-D-105" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;N×&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1066.25" y="-632.5" width="40" height="30" as="geometry" />
