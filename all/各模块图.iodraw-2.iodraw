@@ -3518,7 +3518,7 @@
         <mxCell id="ab_it1oL0Pctacpj2F-D-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="ab_it1oL0Pctacpj2F-D-64" target="ab_it1oL0Pctacpj2F-D-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ab_it1oL0Pctacpj2F-D-64" value="BN+ELU" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;rotation=-90;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="ab_it1oL0Pctacpj2F-D-64" value="BN+ELU" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-524.5" y="-366" width="120" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ab_it1oL0Pctacpj2F-D-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="ab_it1oL0Pctacpj2F-D-67" target="ab_it1oL0Pctacpj2F-D-60">
@@ -3558,7 +3558,7 @@
             <mxPoint x="-354.5" y="-358.3571428571429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ab_it1oL0Pctacpj2F-D-73" value="ELU" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;rotation=-90;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="ab_it1oL0Pctacpj2F-D-73" value="ELU" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-412.5" y="-368.5" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ab_it1oL0Pctacpj2F-D-74" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
