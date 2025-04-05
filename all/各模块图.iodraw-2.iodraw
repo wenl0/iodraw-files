@@ -3603,7 +3603,7 @@
         <mxCell id="ab_it1oL0Pctacpj2F-D-83" value="" style="group;direction=west;opacity=70;" vertex="1" connectable="0" parent="ab_it1oL0Pctacpj2F-D-81">
           <mxGeometry x="77" y="45" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ab_it1oL0Pctacpj2F-D-170" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;strokeColor=#36393d;fillColor=#EFF3FC;opacity=60;" vertex="1" parent="ab_it1oL0Pctacpj2F-D-83">
+        <mxCell id="ab_it1oL0Pctacpj2F-D-170" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;strokeColor=#666666;fillColor=#f5f5f5;opacity=60;fontColor=#333333;" vertex="1" parent="ab_it1oL0Pctacpj2F-D-83">
           <mxGeometry x="34" y="8" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ab_it1oL0Pctacpj2F-D-169" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;strokeColor=#666666;fillColor=#f5f5f5;opacity=60;fontColor=#333333;" vertex="1" parent="ab_it1oL0Pctacpj2F-D-83">
