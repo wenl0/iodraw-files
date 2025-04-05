@@ -7,7 +7,7 @@
         <mxCell id="KRvJMitZO_ERHAP35MQF-709" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;dashed=1;fillColor=none;opacity=60;strokeColor=#000000;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1121.52" y="850" width="638.48" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="KRvJMitZO_ERHAP35MQF-710" value="" style="group;fontSize=12;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" connectable="0">
+        <mxCell id="KRvJMitZO_ERHAP35MQF-710" value="" style="group;fontSize=12;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1247.01" y="1100" width="387.5" height="190" as="geometry" />
         </mxCell>
         <mxCell id="KRvJMitZO_ERHAP35MQF-532" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;dashed=1;fillColor=none;strokeColor=none;gradientColor=none;fontSize=12;fontFamily=Times New Roman;" parent="KRvJMitZO_ERHAP35MQF-710" vertex="1">
