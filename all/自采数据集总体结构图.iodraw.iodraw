@@ -40,7 +40,7 @@
         <mxCell id="VPB8rVkStq8VF4M5i-6z-26" value="睁眼" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="370" y="280" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPB8rVkStq8VF4M5i-6z-27" value="闭眼" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-27" value="闭眼" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="370" y="300" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPB8rVkStq8VF4M5i-6z-28" value="眼动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
