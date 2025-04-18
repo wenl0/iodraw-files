@@ -1,0 +1,100 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram id="XdmZxQ-2VQCGStAvM9J9" name="第 1 页">
+    <mxGraphModel dx="1036" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="221" y="350" width="50" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-12" value="自采数据集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="151" y="410" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-13" value="受试者1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="270" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-14" value="受试者2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="270" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-15" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;...&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="270" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-16" value="受试者15" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="270" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-18" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontFamily=Times New Roman;" parent="1" target="VPB8rVkStq8VF4M5i-6z-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="246" y="445" as="sourcePoint" />
+            <mxPoint x="280" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-23" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontFamily=Times New Roman;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="246" y="399.86" as="sourcePoint" />
+            <mxPoint x="270" y="399.86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-24" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="330" y="295" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-26" value="睁眼" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="370" y="280" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-27" value="闭眼" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="370" y="300" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-28" value="眼动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="370" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-29" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="350" y="315" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-30" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="350" y="355" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-31" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="350" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-32" value="Run1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="365" y="340" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-35" value="Run2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="365" y="360" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-36" value="&lt;b&gt;...&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="375" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-37" value="Run5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="365" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-41" value="左手（20次）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="465" y="321" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-42" value="右手（20次）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="465" y="341" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-43" value="双脚（20次）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="465" y="361" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-40" value="60次" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="420" y="333" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-50" value="" style="group;fontFamily=Times New Roman;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="405" y="336" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-47" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=1;fontSize=10;fontFamily=Times New Roman;" parent="VPB8rVkStq8VF4M5i-6z-50" vertex="1">
+          <mxGeometry x="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-48" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=1;fontSize=10;fontFamily=Times New Roman;" parent="VPB8rVkStq8VF4M5i-6z-50" vertex="1">
+          <mxGeometry x="50" y="20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VPB8rVkStq8VF4M5i-6z-49" value="" style="endArrow=none;html=1;fontSize=10;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" parent="VPB8rVkStq8VF4M5i-6z-50" target="VPB8rVkStq8VF4M5i-6z-48" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="20" as="sourcePoint" />
+            <mxPoint x="40" y="-15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
