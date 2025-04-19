@@ -21,7 +21,7 @@
             <mxPoint x="-390.5" y="-891.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z21KN9J_al5guPlgV1ER-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;运动想象脑电信号采集&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="z21KN9J_al5guPlgV1ER-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;运动想象脑电信号的采集&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;与预处理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-629" y="-908" width="190" height="33" as="geometry" />
         </mxCell>
         <mxCell id="z21KN9J_al5guPlgV1ER-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="z21KN9J_al5guPlgV1ER-18" target="z21KN9J_al5guPlgV1ER-12" edge="1">
